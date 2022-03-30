@@ -1,0 +1,72 @@
+#navbar img {
+    height: 50px;
+    position: absolute;
+}
+
+#navbar {
+    background-color: #1e3ded;
+    color: #FFF;
+    padding: 0 15px;
+    height: 50px;
+}
+
+#navbar h3,
+#navbar ul,
+#navbar-list li,
+#navbar nav {
+    display: inline-block;
+}
+
+#navbar h3 {
+    margin: 0;
+    line-height: 50px;
+    margin-left: 70px;
+}
+
+#navbar nav {
+    float: right;
+}
+
+#navbar ul {
+    margin-top: 15px;
+}
+
+#navbar li {
+    margin: 0 10px;
+}
+
+#navbar-list li a {
+    text-decoration: none;
+    color: rgb(203, 209, 218);
+}
+
+#navbar-list li a:hover {
+    border-bottom: 1px solid rgb(41, 221, 221);
+}
+
+#fundo-igreja {
+    background-image: url('./igreja2.png');
+    background-size: cover;
+    padding-top: 15vh;
+}
+
+#quem-somos {
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    color: rgb(207, 124, 16);
+    padding: 250px;
+}
+
+#back {
+    background-color: rgb(7, 2, 56);
+    background-size: cover;
+    color: #6c6e7e;
+    text-rendering: optimizeLegibility;
+    text-align: center;
+}
+
+body {
+    margin: 0px
+}
