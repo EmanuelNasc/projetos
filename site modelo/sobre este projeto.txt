@@ -1,0 +1,4 @@
+sobre este projeto:
+
+o presente projeto se dará como exemplificação de uma landing page interativa. Usando nada além que JS, HTML e CSS, e algumas bibliotecas,
+para demonstrar por meio desta algumas habilidades que tenho com formulários e alguns designs usando a biblioteca react

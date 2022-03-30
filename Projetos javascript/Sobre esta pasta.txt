@@ -1,0 +1,1 @@
+nesta pasta estarão endereçados alguns projetos em javascript. Para demonstração de aspetos gerais quanto a sua utilização

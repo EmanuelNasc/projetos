@@ -1,0 +1,1 @@
+Esta pasta vem com um projeto simples usando uma API e um banco MongoDB
